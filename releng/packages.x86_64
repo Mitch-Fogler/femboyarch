@@ -38,7 +38,6 @@ grml-zsh-config
 grub
 hdparm
 hyperv
-hyprland
 intel-ucode
 irssi
 iw
@@ -97,7 +96,6 @@ reflector
 rsync
 rxvt-unicode-terminfo
 screen
-sddm
 sdparm
 sequoia-sq
 sg3_utils
